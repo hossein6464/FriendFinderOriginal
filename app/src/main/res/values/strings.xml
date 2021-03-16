@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Instagram Project Version 1 Plus</string>
+    <string name="edittextusername">Username</string>
+    <string name="edittextpassword">Password</string>
+    <string name="buttonsignup">Sign Up</string>
+    <string name="textviewlogin">or, Log In…</string>
+    <string name="image">Instagram Image</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
